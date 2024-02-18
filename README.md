@@ -14,5 +14,6 @@ The app displays a list of items in a RecyclerView.
 Use the search bar to filter items in real-time.
 Click on an item to navigate to a new activity, demonstrating Intent usage.
 
-![Screenshot_20240218_152702](https://github.com/SaharYehezkel/RecycleViewAssignment/assets/36640987/8b289e76-f826-435f-a810-282e92718cc6)
-![Screenshot_20240218_152742](https://github.com/SaharYehezkel/RecycleViewAssignment/assets/36640987/b8e71709-2dbe-4d34-b397-b4a021e5acf2)
+<img src="https://github.com/SaharYehezkel/RecycleViewAssignment/assets/36640987/8b289e76-f826-435f-a810-282e92718cc6" width="300">
+<img src="https://github.com/SaharYehezkel/RecycleViewAssignment/assets/36640987/b8e71709-2dbe-4d34-b397-b4a021e5acf2" width="300">
+<img src="https://github.com/SaharYehezkel/RecycleViewAssignment/assets/36640987/139c82bf-82a3-46f3-8a74-f5c80bdd2f9a" width="300">
